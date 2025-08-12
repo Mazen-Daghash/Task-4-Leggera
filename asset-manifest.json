@@ -1,15 +1,15 @@
 {
   "files": {
     "main.css": "/Task-4-Leggera/static/css/main.833327e6.css",
-    "main.js": "/Task-4-Leggera/static/js/main.778c6167.js",
+    "main.js": "/Task-4-Leggera/static/js/main.a296453d.js",
     "static/js/453.49d980db.chunk.js": "/Task-4-Leggera/static/js/453.49d980db.chunk.js",
     "index.html": "/Task-4-Leggera/index.html",
     "main.833327e6.css.map": "/Task-4-Leggera/static/css/main.833327e6.css.map",
-    "main.778c6167.js.map": "/Task-4-Leggera/static/js/main.778c6167.js.map",
+    "main.a296453d.js.map": "/Task-4-Leggera/static/js/main.a296453d.js.map",
     "453.49d980db.chunk.js.map": "/Task-4-Leggera/static/js/453.49d980db.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.833327e6.css",
-    "static/js/main.778c6167.js"
+    "static/js/main.a296453d.js"
   ]
 }
