@@ -58,9 +58,6 @@ function App() {
           filter: isLoggedIn ? 'none' : 'blur(4px)'
         }}
       >
-        <div className="absolute bottom-4 right-4 bg-black bg-opacity-50 text-white p-2 text-xs">
-          Background Image: {window.location.href}spotify-background.png
-        </div>
       </div>
       
       {!isLoggedIn && (
