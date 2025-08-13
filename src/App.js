@@ -152,7 +152,7 @@ function App() {
                   
                   <button
                     type="button"
-                    className="w-full flex items-center justify-center space-x-3 bg-[#1877F2] text-white font-bold py-2 px-4 rounded-full hover:bg-[#166FE5] transition-colors duration-200 text-base"
+                    className="w-full flex items-center justify-center space-x-3 bg-[#0f63a0] text-white font-bold py-2 px-4 rounded-full hover:bg-[#0d5386] transition-colors duration-200 text-base"
                   >
                     <FaFacebook className="text-white text-xl" />
                     <span>LOG IN WITH FACEBOOK</span>
